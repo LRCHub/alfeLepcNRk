@@ -1,0 +1,49 @@
+{
+  "version": 1,
+  "base_track": "I say bye",
+  "base_artist": "imase",
+  "createdAt": "2026-03-31T02:44:39.939813Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "I say bye",
+      "artist": "imase",
+      "has_synced": true,
+      "path": "select/01_I_say_bye_imase.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "I say bye",
+      "artist": "imase",
+      "has_synced": false,
+      "path": "select/02_I_say_bye_imase.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "I say bye",
+      "artist": "imase",
+      "has_synced": true,
+      "path": "select/03_I_say_bye_imase.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "I say bye",
+      "artist": "imase",
+      "has_synced": false,
+      "path": "select/pl_01_I_say_bye_imase.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "I say bye",
+      "artist": "imase",
+      "has_synced": true,
+      "path": "select/localdb_01_I_say_bye_imase.lrc",
+      "repo_name": "x7XAFzTwbQQ"
+    }
+  ]
+}
