@@ -2,7 +2,7 @@
   "version": 1,
   "base_track": "I say bye",
   "base_artist": "imase",
-  "createdAt": "2026-03-31T02:46:38.879477Z",
+  "createdAt": "2026-04-02T13:38:52.439381Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -43,6 +43,15 @@
       "artist": "imase",
       "has_synced": true,
       "path": "select/localdb_01_I_say_bye_imase.lrc",
+      "repo_name": "alfeLepcNRk"
+    },
+    {
+      "id": "localdb_2",
+      "source": "localdb",
+      "title": "I say bye",
+      "artist": "imase",
+      "has_synced": true,
+      "path": "select/localdb_02_I_say_bye_imase.lrc",
       "repo_name": "x7XAFzTwbQQ"
     }
   ]
